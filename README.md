@@ -1,6 +1,6 @@
 # Visual-Map-COVID19
 
-![dpc-logo-covid19](https://user-images.githubusercontent.com/43711362/150821860-0a98edce-6430-4b88-b92f-ce5cf18ff3dc.png)
+![dpc-logo-covid19](https://user-images.githubusercontent.com/43711362/150822069-0c6e4df8-af51-4411-ba1e-a1e5efb0161a.png)
 
 A very simple Dashboard python script to visualize Italian data about the SARS-COV-2 pandemic (data provided by https://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus )
 
