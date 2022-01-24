@@ -4,7 +4,7 @@ A very simple Dashboard python script to visualize Italian data about the SARS-C
 The 'regioni.py' script returns the (little choropleth) map of Italian regions with different colors (unfortunately it needs to be zoomed a bit). 
 Each region is colored according to the parameter that is given by the user (like the total amount of infected people or the total amount of death, and other). The color intensity meaning can be understood reading the side color-scale.
 
-The 'graph.py' script returns a linechart based on the parameter that is given by the user (like the amount of total lab-tested covid case or the total amount of hospitalized people, and other).
+The 'graph.py' script returns a linechart based on the parameter that is given by the user (like the amount of total lab-tested covid cases or the total amount of hospitalized people, and other).
 
 Both the previous mentioned scripts needs a csv file from which to read the data.
 
